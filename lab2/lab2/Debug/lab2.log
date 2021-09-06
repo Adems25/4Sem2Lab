@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Adem\source\repos\lab2\lab2\HaffmanTree.h(63,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Adem\source\repos\lab2\lab2\Source.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Adem\source\repos\lab2\lab2\Source.cpp(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Adem\source\repos\lab2\lab2\Source.cpp(56,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Adem\source\repos\lab2\lab2\Source.cpp(73,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Adem\source\repos\lab2\lab2\RBTree.h(285): warning C4172: возвращение адреса локальной или временной переменной
+  lab2.vcxproj -> C:\Users\Adem\source\repos\lab2\Debug\lab2.exe
